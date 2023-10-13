@@ -17,3 +17,6 @@ floatage = float(age)
 
 print(intage)
 print(floatage)
+
+assert (1 + 1 == 2)
+assert (1 + 1 == 3)
